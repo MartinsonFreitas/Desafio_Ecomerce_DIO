@@ -1,0 +1,13 @@
+ Criação de banco de dados para cenário de e-comerce
+
+Inserir estrutura do projeto .png
+Inserir código SQL de criação de banco
+     criar tabela cliente
+     criar tabela produto
+     criar tabela pagamento
+     criar tabela pedido
+     criar tabela fornecedor
+     criar tabela vendedor
+     relacao entre Pedido e Produto
+     relacao entre Vendedor e Produto
+     relacao entre Fornecedor e Produto
